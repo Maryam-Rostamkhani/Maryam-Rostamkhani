@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/https%3A%2F%2Fgithub.com%2FMaryam-Rostamkhani">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20It's%20RaYa's%20WORLD" alt="Hello! It&#39;s RaYa&#39;s WORLD" />
+    <img src="[https://capsule-render.vercel.app/api?type=transparent&fontColor=ff69b4&fontSize=54&height=90&width=858&text=Hello!%20It](https://capsule-render.vercel.app/api?type=transparent\&fontColor=ff69b4\&fontSize=54\&height=90\&width=858\&text=Hello!%20It)'s%20RaYa's%20WORLD" alt="Hello! It&#39;s RaYa&#39;s WORLD" />
   </a>
 </p>
 
