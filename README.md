@@ -39,5 +39,3 @@ Biophysics MSc student exploring RNA structure, molecular mechanisms, and the in
   <a href="mailto:rostamkhani.maryam01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Fgithub.com%2FMaryam-Rostamkhani">https://github.com/Maryam-Rostamkhani</a></i></p>
